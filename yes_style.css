@@ -38,6 +38,7 @@ body {
     from{
         opacity:0;
         transform: rotate(90deg);
+        translate:0px 80vh;
     }
     to{
         opacity:0.4;
